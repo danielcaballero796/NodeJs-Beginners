@@ -1,0 +1,34 @@
+{
+    "name": "nodejs-beginner",
+    "version": "1.0.0",
+    "description": "proyecto para aprender NodeJs",
+    "main": "index.js",
+    "dependencies": {
+        "colors": "^1.4.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/danielcaballero796/NodeJs-Beginners.git"
+    },
+    "keywords": [
+        "nodejs",
+        "javascript",
+        "server",
+        "course",
+        "files",
+        "modules",
+        "learn",
+        "nerverstoplearning"
+    ],
+    "author": "Daniel Caballero",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/danielcaballero796/NodeJs-Beginners/issues"
+    },
+    "homepage": "https://github.com/danielcaballero796/NodeJs-Beginners#readme"
+}
